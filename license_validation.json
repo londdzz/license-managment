@@ -1,17 +1,12 @@
 {
-  "LNDZ-C8C7-689C-AA96-1F31": {
-    "active": false,
-    "expiry": "2026-01-31T12:15:03.074956",
-    "name": "Blend"
-  },
-  "LNDZ-9F7E-EE87-89EB-A949": {
-    "active": false,
-    "expiry": "2026-08-29T12:17:02.724482",
+  "LNDZ-B6A1-4FD5-CBDA-2970": {
+    "active": true,
+    "expiry": "2026-08-28T15:46:55.886072",
     "name": "londdzz"
   },
-  "LNDZ-EB27-CB5A-8D23-1A04": {
+  "LNDZ-5582-5952-2E7A-A840": {
     "active": true,
-    "expiry": "2026-08-19T12:18:04.555073",
-    "name": "Blend"
+    "expiry": "2026-08-27T22:34:34.336175",
+    "name": "mert"
   }
 }
